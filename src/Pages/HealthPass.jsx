@@ -6,8 +6,7 @@ import NextProject from "../Components/Healthpass/NextProject"
 import Overview from "../Components/Healthpass/Overview"
 import SolutionChallenge from "../Components/Healthpass/SolutionChallenge"
 import Takeaway from "../Components/Healthpass/Takeaway"
-import Navbar from "../Components/Navbar"
-import Preloader from "../Components/Preloader"
+import TailNav from "../Components/TailNav"
 
 const HealthPass = () => {
     return (
@@ -15,8 +14,7 @@ const HealthPass = () => {
             <Helmet>
                 <script src="https://cdn.tailwindcss.com"></script>
             </Helmet>
-            <Preloader />
-            <Navbar />
+            <TailNav />
             <Overview />
             <Design />
             <SolutionChallenge />

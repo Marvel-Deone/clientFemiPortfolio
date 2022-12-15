@@ -8,8 +8,7 @@ import Research from "../Components/Airpeace/Research"
 import SolutionPreview from "../Components/Airpeace/SolutionPreview"
 import Validating from "../Components/Airpeace/Validating"
 import Footer from "../Components/Footer"
-import Navbar from "../Components/Navbar"
-import Preloader from "../Components/Preloader"
+import TailNav from "../Components/TailNav"
 
 const Airpeace = () => {
     return (
@@ -17,8 +16,7 @@ const Airpeace = () => {
             <Helmet>
                 <script src="https://cdn.tailwindcss.com"></script>
             </Helmet>
-            <Preloader />
-            <Navbar />
+            <TailNav />
             <Hero />
             <Overview />
             <DesignChallenge />
