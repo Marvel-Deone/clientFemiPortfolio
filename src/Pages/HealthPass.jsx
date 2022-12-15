@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet"
+import Footer from "../Components/Footer"
 import Definition from "../Components/Healthpass/Definition"
 import Design from "../Components/Healthpass/Design"
-import Footer from "../Components/Healthpass/Footer"
 import NextProject from "../Components/Healthpass/NextProject"
 import Overview from "../Components/Healthpass/Overview"
 import SolutionChallenge from "../Components/Healthpass/SolutionChallenge"
