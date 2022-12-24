@@ -8,13 +8,13 @@ const FinalSol = () => {
                     feedbacks and came up with high fidelity designs.
                 </p>
             </div>
-            <div className="flex flex-col md:flex-row mx-auto flex-wrap">
-                <img src="assets/images/14.png" alt="" className="object-cover h-80" />
-                <img src="assets/images/14.png" alt="" className="object-cover h-80" />
-                <img src="assets/images/2.png" alt="" className="object-cover h-80" />
-                <img src="assets/images/pace-advantage.png" alt="" className="object-cover h-80" />
-                <img src="assets/images/port-harcout.png" alt="" className="object-cover h-80" />
-                <img src="assets/images/premission.png" alt="" className="object-cover h-80" />
+            <div className="flex flex-col md:flex-row mx-auto justify-center flex-wrap gap-16">
+                <img src="assets/images/group 4.png" alt="" className="w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 5.png" alt="" className="w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 6.png" alt="" className="w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 9.png" alt="" className="w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 10.png" alt="" className="w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 11.png" alt="" className="w-[17rem] h-[32rem]" />
                 {/* <img src="assets/images/port-harcourt.png" alt="" className="w-72 h-fit"/> */}
             </div>
         </div>
