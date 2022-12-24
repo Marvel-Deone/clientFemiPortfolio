@@ -62,9 +62,9 @@ const Research = () => {
                     </p>
                     <div className="mt-10 md:mt-0 flex flex-col lg:flex-row gap-8 md:gap-16">
                         <div className="flex flex-col mx-auto lg:mx-0 md:flex-row gap-12 items-center">
-                            <img src="assets/images/analysis1.png" alt="" className="w-36 h-20 md:w-44 md:h-24" />
-                            <img src="assets/images/analysis2.png" alt="" className="w-36 h-20 md:w-44 md:h-24" />
-                            <img src="assets/images/analysis3.png" alt="" className="w-24 h-28 md:w-44 md:h-44" />
+                            <img src="assets/images/aero.png" alt="" className="w-36 h-20 md:w-44 md:h-24" />
+                            <img src="assets/images/dana-air-logo.png" alt="" className="w-36 h-20 md:w-44 md:h-24" />
+                            <img src="assets/images/Arik-Logo.png" alt="" className="w-36 h-20 md:w-44 md:h-24" />
                         </div>
                         <p
                             className="hidden lg:flex text-[#111111] text-sm md:text-base font-[400] tracking-10 w-full md:w-80 md:h-44 leading-snug p-2 md:p-0">
@@ -96,7 +96,7 @@ const Research = () => {
                 </div>
             </div>
             {/* Focusing on the my target audience */}
-            <div className="max-w-5xl flex flex-col gap-3 lg:mt-16 md:gap-4">
+            <div className="max-w-5xl flex flex-col gap-3 lg:mt-28 md:gap-4">
                 <h2 className="text-[#AD1124] font-semibold leading-4 text-sm tracking-wide mb-2 md:mb-0 text-center">
                     Focusing on my target audience</h2>
                 <div className="flex flex-col gap-14 md:px-6 md:gap-16">
@@ -143,7 +143,7 @@ const Research = () => {
                     </div>
                     {/* Image Section */}
                     <div className="flex flex-col md:flex-row flex-wrap mx-auto md:mx-0 gap-12 md:mb-10">
-                        <img src="assets/images/Home 5.png" alt="" className="w-[170px] h-[368px]" />
+                        <img src="assets/images/Home.png" alt="" className="w-[170px] h-[368px]" />
                         <img src="assets/images/Location Permission Request.png" alt="" />
                         <img src="assets/images/Peace Advantage.png" alt="" />
                         <img src="assets/images/Upcoming Trip.png" alt="" />

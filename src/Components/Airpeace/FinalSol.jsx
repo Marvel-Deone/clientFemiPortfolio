@@ -8,8 +8,13 @@ const FinalSol = () => {
                     feedbacks and came up with high fidelity designs.
                 </p>
             </div>
-            <div className="flex flex-col lg:flex-row mx-auto">
-                <img src="assets/images/pace-advantage.png" alt="" className="object-cover h-fit" />
+            <div className="flex flex-col md:flex-row mx-auto flex-wrap">
+                <img src="assets/images/14.png" alt="" className="object-cover h-80" />
+                <img src="assets/images/14.png" alt="" className="object-cover h-80" />
+                <img src="assets/images/2.png" alt="" className="object-cover h-80" />
+                <img src="assets/images/pace-advantage.png" alt="" className="object-cover h-80" />
+                <img src="assets/images/port-harcout.png" alt="" className="object-cover h-80" />
+                <img src="assets/images/premission.png" alt="" className="object-cover h-80" />
                 {/* <img src="assets/images/port-harcourt.png" alt="" className="w-72 h-fit"/> */}
             </div>
         </div>

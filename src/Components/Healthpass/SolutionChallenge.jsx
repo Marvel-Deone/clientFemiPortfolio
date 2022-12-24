@@ -10,7 +10,7 @@ const SolutionChallenge = () => {
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
                         <img src="assets/images/health-pass1.png"
-                            className="absolute mx-auto mx-4 top-0 h-[28rem] md:h-[30rem] lg:h-[36rem] object-cover" alt="" />
+                            className="absolute mx-auto md:left-2 lg:left-6 top-0 h-[28rem] md:h-[30rem] lg:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-3 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Track all your medical records by
@@ -32,7 +32,7 @@ const SolutionChallenge = () => {
                     </div>
                     <div className="relative w-fit mx-auto h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto"></div>
-                        <img src="assets/images/health-pass2.png" className="absolute mx-auto flex top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
+                        <img src="assets/images/health-pass2.png" className="absolute mx-auto md:right-3 flex top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                 </div>
                 {/* Detailed information about a medical */}
@@ -41,7 +41,7 @@ const SolutionChallenge = () => {
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
                         <img src="assets/images/health-pass3.png"
-                            className="absolute mx-auto mx-6 md:mx-10 top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
+                            className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] md:left-2 lg:left-8 object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-3 md:gap-12">
                         <h2 className="font-bold text-lg md:text-2xl text-[#111111]">Detailed information about a medical

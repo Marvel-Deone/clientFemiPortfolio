@@ -9,7 +9,7 @@ const SolutionPreview = () => {
                     <div className="relative w-fit mx-auto h-[28rem] md:h-[30rem] lg:h-[36rem] flex">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
-                        <img src="assets/images/airpeace-1.png"
+                        <img src="assets/images/14.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[30rem] lg:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-3 md:gap-12">
@@ -31,7 +31,7 @@ const SolutionPreview = () => {
                     <div className="md:hidden relative w-fit mx-auto h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72  md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
-                        <img src="assets/images/airpeace-2.png"
+                        <img src="assets/images/2.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-4 md:gap-12">
@@ -45,7 +45,7 @@ const SolutionPreview = () => {
                     <div className="hidden md:flex relative w-fit h-[28rem] md:h-[36rem]">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72  md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
-                        <img src="assets/images/airpeace-2.png"
+                        <img src="assets/images/2.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                 </div>
@@ -54,7 +54,7 @@ const SolutionPreview = () => {
                     <div className="relative w-fit mx-auto h-[28rem] md:h-[36rem] flex">
                         <div className="rounded-full bg-[#DCDDE1] w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 flex my-auto">
                         </div>
-                        <img src="assets/images/airpeace-3.png"
+                        <img src="assets/images/3.png"
                             className="absolute mx-auto top-0 h-[28rem] md:h-[36rem] object-cover" alt="" />
                     </div>
                     <div className="flex flex-col my-auto gap-3 md:gap-12">
