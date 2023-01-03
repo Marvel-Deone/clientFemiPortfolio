@@ -2,25 +2,26 @@
 const Hero = () => {
     return (
         // Hero Area Start
-        <div id="home" class="hero-area">
-            <div class="background"></div>
-            <img class="bgimg" src="assets/images/heroarea/one/bg.png" alt="" />
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 d-flex align-self-center">
-                        <div class="left-content">
-                            <div class="content">
-                                <h1 class="title">Hi, I'm Olorunfemi</h1>
+        <div id="home" className="hero-area">
+            <div className="background"></div>
+            {/* <img className="bgimg" src="assets/images/heroarea/one/bg.png" alt="" /> */}
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-7 d-flex align-self-center">
+                        <div className="left-content">
+                            <div className="content">
+                                <p className="subtitle" style={{ fontWeight: '500px' }}>Hi, I'm Olorunfemi</p>
 
-                                <p class="subtitle">I design easy-to-use mobile and web solutions through empathy communication.</p>
-                                <div class="links">
+                                <p id="hero-title">I design easy-to-use <br /> mobile and web solutions through empathy and communications.</p>
+                                <p id="hero-title2">I design easy-to-use <br /> mobile and web solutions through empathy and communication.</p>
+                                <div className="links">
 
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 order-first order-lg-last">
-                        <div class="right-img">
+                    <div className="col-lg-6 order-first order-lg-last">
+                        <div className="right-img">
 
                         </div>
                     </div>

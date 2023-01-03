@@ -9,12 +9,12 @@ const FinalSol = () => {
                 </p>
             </div>
             <div className="flex flex-col md:flex-row mx-auto justify-center flex-wrap gap-16">
-                <img src="assets/images/group 4.png" alt="" className="w-[17rem] h-[32rem]" />
-                <img src="assets/images/group 5.png" alt="" className="w-[17rem] h-[32rem]" />
-                <img src="assets/images/group 6.png" alt="" className="w-[17rem] h-[32rem]" />
-                <img src="assets/images/group 9.png" alt="" className="w-[17rem] h-[32rem]" />
-                <img src="assets/images/group 10.png" alt="" className="w-[17rem] h-[32rem]" />
-                <img src="assets/images/group 11.png" alt="" className="w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 4.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 5.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 6.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 9.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 10.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
+                <img src="assets/images/group 11.png" alt="" className="w-[15rem] md:w-[17rem] h-[32rem]" />
                 {/* <img src="assets/images/port-harcourt.png" alt="" className="w-72 h-fit"/> */}
             </div>
         </div>

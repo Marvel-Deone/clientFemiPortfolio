@@ -8,7 +8,7 @@ const Navbar = () => {
                     <div className="col-lg-12 p-0">
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link className="navbar-brand" to="/">
-                                <img src="assets/images/logo-color.png" alt="" />
+                                <img src="assets/images/gcf2.png" alt="" />
                             </Link>
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu"
                                 aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation">

@@ -10,7 +10,7 @@ import TailNav from "../Components/TailNav"
 
 const HealthPass = () => {
     return (
-        <div>
+        <>
             <Helmet>
                 <script src="https://cdn.tailwindcss.com"></script>
             </Helmet>
@@ -22,7 +22,7 @@ const HealthPass = () => {
             <Takeaway />
             <NextProject />
             <Footer />
-        </div>
+        </>
     )
 }
 
